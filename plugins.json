@@ -34,7 +34,7 @@
                 "requires": "orca>=0.0.0,deck>=0.0.0",
                 "sha512sum": "573b7d94816393fa17fafeb5e96dd54e28af6ebec22d1b9bfd20f691a64f5a6831ed023b36a391c3572baebcbe2341fba8024b2850cd4c5fcc595f83a2ec04f4",
                 "state": "",
-                "url": "https://github.com/armory/spinnaker-multiple-pipelines/releases/download/v0.0.4/spinnaker-multiple-pipelines-v0.0.4.zip"
+                "url": "https://github.com/ichi0915/TMP-Custom-Stage-Spinnaker/raw/my_branch/spinnaker-multiple-pipelines-v0.0.4.zip"
             }
         ]
     }
