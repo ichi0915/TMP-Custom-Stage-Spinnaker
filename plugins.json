@@ -1,6 +1,6 @@
 [
     {
-        "id": "Armory.RunMultitplePipelines",
+        "id": "Armory.RunMultiplePipelines",
         "description": "",
         "provider": "https://armory.io",
         "releases": [
