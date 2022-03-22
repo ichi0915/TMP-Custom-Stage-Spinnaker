@@ -117,7 +117,7 @@
                 "url": "https://github.com/ichi0915/TMP-Custom-Stage-Spinnaker/raw/my_branch/spinnaker-multiple-pipelines-v0.2.2.zip"
             },
             {
-                "version": "v0.2.3",
+                "version": "0.2.3",
                 "date": "2022-03-22T15:49:32.708537Z",
                 "requires": "orca>=0.0.0,deck>=0.0.0",
                 "sha512sum": "2c814850f8ff1dd516f27d1194ef0f055fad42f99b54a055943ccbda6135099555bb728cc9dcc00ade54c46628cf2c4f3e646339ba12dcbf124dc540a2e14c59",
