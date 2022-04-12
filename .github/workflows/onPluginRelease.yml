@@ -1,0 +1,55 @@
+name: On Plugin Release
+
+on:
+  repository_dispatch:
+    types: onPluginRelease
+
+jobs:
+  build:
+    name: Add Release To Repo
+    runs-on: ubuntu-18.04
+    steps:
+      - name: create release
+        id: create_release
+        uses: actions/create-release@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          tag_name: ${{ github.event.client_payload.version }}
+          release_name: Release ${{ github.event.client_payload.version }}
+          draft: false
+          prerelease: false
+      - name: download release asset
+        uses: fabriciobastian/download-release-asset-action@v1.0.6
+        with:
+          version: ${{ github.event.client_payload.version }}
+          repository: ${{ github.event.client_payload.org }}/${{ github.event.client_payload.repo }}
+          file: ${{ github.event.client_payload.artifactName }}
+          token: ${{ secrets.TOKEN }}
+      - name: upload release asset
+        id: upload-release-asset
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: ./${{ github.event.client_payload.artifactName }}
+          asset_name: ${{ github.event.client_payload.artifactName }}
+          asset_content_type: application/zip
+      - name: remove release asset
+        run: |
+          rm ${{ github.event.client_payload.artifactName }}
+      - name: checkout code
+        uses: actions/checkout@v2
+      - name: add release to plugin repo
+        run: |
+          echo "Go run addPluginReleaseToRepo: $(go run .github/workflows/addPluginReleaseToRepo.go '${{ toJson(github.event.client_payload) }}')"
+      - name: commit files
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git commit -m "Add plugin release ${{ github.event.client_payload.released.id }} ${{ github.event.client_payload.released.releases[0].version }}" -a
+      - name: push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
