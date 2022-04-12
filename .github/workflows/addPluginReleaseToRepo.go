@@ -17,6 +17,8 @@ func check(e error) {
 type PluginReleaseEvent struct {
     Org string
     Repo string
+    ReleaseOrg string
+    ReleaseRepo string
     Released Plugin
 }
 
@@ -68,7 +70,7 @@ func main() {
 func addReleaseToPlugins(releaseEvent PluginReleaseEvent, existingPlugins []Plugin) []Plugin {
     releasedPlugin := releaseEvent.Released
     release := releasedPlugin.Releases[0]
-    release.Url = "https://github.com/" + releaseEvent.Org + "/" + releaseEvent.Repo + "/releases/download/" + release.Version + "/" + releaseEvent.Repo + "-" + release.Version + ".zip"
+    release.Url = "https://github.com/" + releaseEvent.ReleaseOrg + "/" + releaseEvent.ReleaseRepo + "/releases/download/" + release.Version + "/" + releaseEvent.Repo + "-" + release.Version + ".zip"
     if strings.HasPrefix(release.Version,"v") {
         // the plugins version is supplied with a v from the bundler, but fails when update manager compares versions
         release.Version = release.Version[1:]
