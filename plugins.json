@@ -35,14 +35,6 @@
               "sha512sum": "218e6937ee42d7d910d5900160e3e9d77480d641b19f80e9b63d99543f377c0464f32d659ee1aac0211382dee16872b2d1d2899cab8b1047d3f966a4638d0ed7",
               "state": "",
               "url": "https://github.com/ichi0915/TMP-Custom-Stage-Spinnaker/raw/my_branch/spinnaker-multiple-pipelines-v0.4.8.zip"
-            },
-            {
-              "version": "0.4.9",
-              "date": "2022-04-15T16:41:40.041662Z",
-              "requires": "orca>=0.0.0,deck>=0.0.0",
-              "sha512sum": "057d1d588a926ffbdf11f0e9660ee1ebd855df6be199c08e88ce5c608c691828afa938a8dc7af58affa613fe9f61fb7a111f9330b566387ee442e9b99ce75c37",
-              "state": "",
-              "url": "https://github.com/ichi0915/TMP-Custom-Stage-Spinnaker/raw/my_branch/spinnaker-multiple-pipelines-v0.4.9.zip"
             }
         ]
     }
