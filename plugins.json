@@ -20,6 +20,14 @@
     "provider": "https://armory.io",
     "releases": [
       {
+        "version": "0.1.20",
+        "date": "2022-04-19T20:51:50.755936Z",
+        "requires": "clouddriver>=0.0.0,front50>=0.0.0,orca>=0.0.0",
+        "sha512sum": "be6f2c36e8ae79ed8c66ab516fef67416d74d8a27b60dcdfe014d38ff639253ccc2ff41f54584b44b5b09a55a68c5b2ef421b71cd33e03d560db0c0b49ca47fd",
+        "state": "",
+        "url": "https://github.com/ichi0915/TMP-Custom-Stage-Spinnaker/releases/download/v0.1.20/iam-auth-v0.1.20.zip"
+      },
+      {
         "version": "0.1.19",
         "date": "2022-04-19T20:41:56.166184Z",
         "requires": "clouddriver>=0.0.0,front50>=0.0.0,orca>=0.0.0",
