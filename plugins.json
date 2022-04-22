@@ -52,12 +52,12 @@
       "provider": "https://armory.io",
       "releases": [
         {
-          "version": "0.2.0-snapshot.uncommitted.main.fe6763f",
-          "date": "2022-04-22T15:54:18.603143Z",
-          "requires": "clouddriver>=0.0.0,front50>=0.0.0,orca>=0.0.0",
-          "sha512sum": "b7faa6760b3e166fc6f47ac7ffc5b6248305d022818b634ad143c2bdc5f25445c9bd0f3e8643fb0ed529a18091920d204f52d81377123e094b9c3131d61f63c8",
+          "version": "v0.0.1",
+          "date": "2022-04-22T20:14:37.492195Z",
+          "requires": "orca>=0.0.0",
+          "sha512sum": "654c782eb084695c77986e71bb18017516b464302ba5ac831192340f98538789d2f12125c95415b4c90f150d7f20f0eaee0e2d3180755f3c239cf61fbf281a75",
           "state": "",
-          "url": "https://github.com/ichi0915/TMP-Custom-Stage-Spinnaker/raw/my_branch/iam-0.2.0-snapshot.uncommitted.main.fe6763f.zip"
+          "url": "https://github.com/ichi0915/TMP-Custom-Stage-Spinnaker/raw/my_branch/iam-v0.0.1.zip"
         }
       ]
     }
