@@ -52,7 +52,7 @@
       "provider": "https://armory.io",
       "releases": [
         {
-          "version": "v0.0.1",
+          "version": "0.0.1",
           "date": "2022-04-22T20:14:37.492195Z",
           "requires": "orca>=0.0.0",
           "sha512sum": "654c782eb084695c77986e71bb18017516b464302ba5ac831192340f98538789d2f12125c95415b4c90f150d7f20f0eaee0e2d3180755f3c239cf61fbf281a75",
