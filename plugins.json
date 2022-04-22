@@ -45,5 +45,20 @@
               "url": "https://github.com/ichi0915/TMP-Custom-Stage-Spinnaker/raw/my_branch/spinnaker-multiple-pipelines-v0.5.0.zip"
             }
         ]
+    },
+    {
+      "id": "Armory.IAM",
+      "description": "Authenticate Mysql(Aurora) with RDS IAM-auth",
+      "provider": "https://armory.io",
+      "releases": [
+        {
+          "version": "0.2.0-snapshot.uncommitted.main.fe6763f",
+          "date": "2022-04-22T15:54:18.603143Z",
+          "requires": "clouddriver>=0.0.0,front50>=0.0.0,orca>=0.0.0",
+          "sha512sum": "b7faa6760b3e166fc6f47ac7ffc5b6248305d022818b634ad143c2bdc5f25445c9bd0f3e8643fb0ed529a18091920d204f52d81377123e094b9c3131d61f63c8",
+          "state": "",
+          "url": "https://github.com/ichi0915/TMP-Custom-Stage-Spinnaker/raw/my_branch/iam-0.2.0-snapshot.uncommitted.main.fe6763f.zip"
+        }
+      ]
     }
 ]
