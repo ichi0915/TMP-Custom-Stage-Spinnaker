@@ -53,11 +53,11 @@
       "releases": [
         {
           "version": "0.0.1",
-          "date": "2022-04-22T20:14:37.492195Z",
+          "date": "2022-04-22T21:34:53.346936Z",
           "requires": "orca>=0.0.0",
-          "sha512sum": "654c782eb084695c77986e71bb18017516b464302ba5ac831192340f98538789d2f12125c95415b4c90f150d7f20f0eaee0e2d3180755f3c239cf61fbf281a75",
+          "sha512sum": "f00341d6a993f75cf9c0dafdb8e4854a59f4b856b575f24d977ac96babbebf8ff336d579991846132a2ec65ef413c6c45e4ccf1717d01f807f9d11d61abfe2ee",
           "state": "",
-          "url": "https://github.com/ichi0915/TMP-Custom-Stage-Spinnaker/raw/my_branch/iam-v0.0.1.zip"
+          "url": "https://github.com/ichi0915/TMP-Custom-Stage-Spinnaker/raw/my_branch/spinnaker-multiple-pipelines-v0.5.0.zip"
         }
       ]
     }
