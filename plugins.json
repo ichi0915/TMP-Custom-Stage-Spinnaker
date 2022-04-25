@@ -68,5 +68,20 @@
           "url": "https://github.com/ichi0915/TMP-Custom-Stage-Spinnaker/raw/my_branch/iam-v0.0.2.zip"
         }
       ]
+    },
+    {
+      "id": "Armory.SpringExamplePlugin",
+      "description": "An example of a Spring based plugin that requires no extension points.",
+      "provider": "https://github.com/claymccoy",
+      "releases": [
+          {
+              "version": "1.2.1-SNAPSHOT",
+              "date": "2022-04-25T15:40:03.877367Z",
+              "requires": "orca>=0.0.0",
+              "sha512sum": "499656355463402c0f421084061609cbf7d146f3f4415deb81eee699b51922bcef87aaa5c755e10f61afd2b367cc4360b976978f23a466af1e9e58958e5c76ff",
+              "state": "",
+              "url": "https://github.com/ichi0915/TMP-Custom-Stage-Spinnaker/raw/my_branch/springExamplePlugin-v1.2.1-SNAPSHOT.zip"
+          }
+      ]
     }
 ]
