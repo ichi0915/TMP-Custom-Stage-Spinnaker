@@ -1,52 +1,5 @@
 [
     {
-        "id": "Armory.RunMultiplePipelines",
-        "description": "",
-        "provider": "https://armory.io",
-        "releases": [
-            {
-                "version": "0.4.5",
-                "date": "2022-03-31T23:30:16.198111Z",
-                "requires": "orca>=0.0.0,deck>=0.0.0",
-                "sha512sum": "870a33b7e2c82e54fbd41aa3a779bbe9c7875350e582d4c52d6f91e7857224c5dbe1aae23d103f787b623b443a7d9cbc681f1b54dafbacb3acd175073ba3b488",
-                "state": "RELEASE",
-                "url": "https://github.com/ichi0915/TMP-Custom-Stage-Spinnaker/raw/my_branch/spinnaker-multiple-pipelines-v0.4.5.zip"
-            },
-            {
-                "version": "0.4.6",
-                "date": "2022-04-08T12:38:18.592201Z",
-                "requires": "orca>=0.0.0,deck>=0.0.0",
-                "sha512sum": "384f2f6bd7b2d7d648714042f191197ea85eaef931bf3a8dde02f6d0f650b06f3d4deca17c78db03b3d7dfdc4a68c4e29c2752e2ea02d96679870d4949f98be2",
-                "state": "RELEASE",
-                "url": "https://github.com/ichi0915/TMP-Custom-Stage-Spinnaker/raw/my_branch/spinnaker-multiple-pipelines-v0.4.6.zip"
-            },
-            {
-              "version": "0.4.7",
-              "date": "2022-04-16T00:42:59.744683Z",
-              "requires": "orca>=0.0.0,deck>=0.0.0",
-              "sha512sum": "bf906cc48cd0915aa0ce8ec61454999b99c32ad792f7cae0f05507a160457b0518b5965ed4884c18c7b622ae279fba95e5fffa0e8e6de8ca474b58e1ebd89119",
-              "state": "",
-              "url": "https://github.com/ichi0915/TMP-Custom-Stage-Spinnaker/raw/my_branch/spinnaker-multiple-pipelines-v0.4.7.zip"
-            },
-            {
-              "version": "0.4.8",
-              "date": "2022-04-19T16:58:27.376375Z",
-              "requires": "orca>=0.0.0,deck>=0.0.0",
-              "sha512sum": "6c4e7dc0c97f088e3210ab1c807048e975db6fb86c2be892b0299f89fd195443122dd391908ec9bb16ded9bcb9bc5e13626de1534d87b4ba165733793a09e147",
-              "state": "",
-              "url": "https://github.com/ichi0915/TMP-Custom-Stage-Spinnaker/raw/my_branch/spinnaker-multiple-pipelines-v0.4.8.zip"
-            },
-            {
-              "version": "0.5.0",
-              "date": "2022-04-20T14:40:46.874790Z",
-              "requires": "orca>=0.0.0,deck>=0.0.0",
-              "sha512sum": "e0c11b9fde77eebfeac25db9d25c296c47988d3077eb45df6204ab7972798326a4629ca39693e5f4cc49554aa35765736b1f317fea917ed187cac7ba2957ea24",
-              "state": "",
-              "url": "https://github.com/ichi0915/TMP-Custom-Stage-Spinnaker/raw/my_branch/spinnaker-multiple-pipelines-v0.5.0.zip"
-            }
-        ]
-    },
-    {
       "id": "Armory.IAM",
       "description": "Authenticate Mysql(Aurora) with RDS IAM-auth",
       "provider": "https://armory.io",
