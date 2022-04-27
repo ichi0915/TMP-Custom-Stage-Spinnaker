@@ -5,20 +5,12 @@
       "provider": "https://armory.io",
       "releases": [
         {
-          "version": "0.0.1",
-          "date": "2022-04-22T21:54:11.092667Z",
+          "version": "0.0.3",
+          "date": "2022-04-27T18:30:21.287432Z",
           "requires": "orca>=0.0.0",
-          "sha512sum": "07554a0834e422971adb0fa74d544a0b6d327c3ae3b5961869c397689a10843a670349ab90efbe72004753d71095f0843494041071129f92ce681391fc763e48",
+          "sha512sum": "113f4f1c656c7d5c0dd708b03cf8c138ee1648a6dc423ae52e2740c8253e366cbcd099757563168895a254b02c05aa664d7cbad4db46f19de167890ff6636ab8",
           "state": "",
-          "url": "https://github.com/ichi0915/TMP-Custom-Stage-Spinnaker/raw/my_branch/iam-v0.0.1.zip"
-        },
-        {
-          "version": "0.0.2",
-          "date": "2022-04-22T22:58:50.984282Z",
-          "requires": "orca>=0.0.0",
-          "sha512sum": "1b8f22d71610f8a5385bd3a8e5814403ca5c57ae0f106e821f5a63eb8bd1a1ff9ebfe802e39bfcd8de5b2f0dc0cd76f65c15d8ee4f6a4537c9504876fdb09981",
-          "state": "",
-          "url": "https://github.com/ichi0915/TMP-Custom-Stage-Spinnaker/raw/my_branch/iam-v0.0.2.zip"
+          "url": "https://github.com/ichi0915/TMP-Custom-Stage-Spinnaker/raw/my_branch/iam-v0.0.3.zip"
         }
       ]
     },
