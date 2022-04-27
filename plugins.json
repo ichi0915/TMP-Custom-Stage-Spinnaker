@@ -6,9 +6,9 @@
       "releases": [
         {
           "version": "0.0.3",
-          "date": "2022-04-27T20:05:14.339703Z",
+          "date": "2022-04-27T20:16:30.816803Z",
           "requires": "orca>=0.0.0",
-          "sha512sum": "c1a8ebb145bb5c18e1254a8211ab2460d36309c4d0dc2d4eba8841ce872197ff843c1b0490215e8de01e2fc4c896c2fc976432d7252373f1cb21ae9ab291a8b1",
+          "sha512sum": "39b80d5e8ab2b0595ea8884e134f4c3c92ecd0c8f9ccc3428f356ce428e924d0ba225df30df132b0a3e5a72ab55911bd34d4d0a03b2a3ce843fd35c2ca905d49",
           "state": "",
           "url": "https://github.com/ichi0915/TMP-Custom-Stage-Spinnaker/raw/my_branch/iam-v0.0.3.zip"
         }
