@@ -11,6 +11,14 @@
           "sha512sum": "57aadbf6ee63f89981be238083de0f90abeab3943cac96a4d7669b79a116f7df091fe0809da68db90403709210dd743b8aad4163c664b7e1a62e79b6ee13f26e",
           "state": "",
           "url": "https://github.com/ichi0915/TMP-Custom-Stage-Spinnaker/raw/my_branch/iam-v0.0.3.zip"
+        },
+        {
+          "version": "0.0.4",
+          "date": "2022-04-28T20:11:08.720526Z",
+          "requires": "orca>=0.0.0",
+          "sha512sum": "6f589189e4b36d8a39b4e12ed3ff894c053a059ec422d9fc61ba48b917b92c8b2385460682dca965f496f083eea6427f4bf21ac14fbffaf38252854040503bf1",
+          "state": "",
+          "url": "https://github.com/ichi0915/TMP-Custom-Stage-Spinnaker/raw/my_branch/iam-v0.0.4.zip"
         }
       ]
     },
