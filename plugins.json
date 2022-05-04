@@ -25,7 +25,7 @@
         "requires": "clouddriver>=0.0.0,front50>=0.0.0,orca>=0.0.0",
         "sha512sum": "221faf292da5fc088fbdcd57163e9507d968b099f76bc7f1460bbd9319a7f6671cc2478c3d34d97dbd6396a12a994af9627660cec2796c7bd25877968d34db2f",
         "state": "",
-        "url": "https://github.com/ichi0915/TMP-Custom-Stage-Spinnaker/releases/download/v0.1.38/iam-auth-v0.1.38.zip"
+        "url": "https://github.com/ichi0915/TMP-Custom-Stage-Spinnaker/releases/download/v0.1.38/iam-v0.1.38.zip"
       },
       {
         "version": "0.1.37",
