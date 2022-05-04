@@ -25,7 +25,7 @@
         "requires": "clouddriver>=0.0.0,front50>=0.0.0,orca>=0.0.0",
         "sha512sum": "6f8b0eeaeb6f96a0cbca00b4c9994d4e9226ef1872056b692133770f8f0a529a1cdcdcabf63209a3657ed0164108fab21f67dfa0846acbb89d52aadd7a96db36",
         "state": "",
-        "url": "https://github.com/ichi0915/TMP-Custom-Stage-Spinnaker/releases/download/v0.1.40/iam-auth-v0.1.40.zip"
+        "url": "https://github.com/ichi0915/TMP-Custom-Stage-Spinnaker/releases/download/v0.1.40/iam-v0.1.40.zip"
       },
       {
         "version": "0.1.39",
@@ -33,7 +33,7 @@
         "requires": "clouddriver>=0.0.0,front50>=0.0.0,orca>=0.0.0",
         "sha512sum": "a12d242a1eaae1ba3f02912131771cf22eccd361faab34761f0deba5b115c6a645feab3eff174fd0947cd0e06d9b3f6aa6817a7b46e568ec1ebe7540ff349486",
         "state": "",
-        "url": "https://github.com/ichi0915/TMP-Custom-Stage-Spinnaker/releases/download/v0.1.39/iam-auth-v0.1.39.zip"
+        "url": "https://github.com/ichi0915/TMP-Custom-Stage-Spinnaker/releases/download/v0.1.39/iam-v0.1.39.zip"
       },
       {
         "version": "0.1.38",
