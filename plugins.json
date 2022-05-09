@@ -44,7 +44,7 @@
       "provider": "https://github.com/claymccoy",
       "releases": [
         {
-          "version": "v1.2.1-SNAPSHOT",
+          "version": "1.2.1-SNAPSHOT",
           "date": "2022-05-09T18:23:23.703841Z",
           "requires": "orca>=0.0.0",
           "sha512sum": "8e415c818854122ee914647643d441ac58cedc32ed8fa584751fbd68b3078bab6ccecf3fa1820c04a4975b55df81000a9125286c8739bc173c0854e97c49b86f",
