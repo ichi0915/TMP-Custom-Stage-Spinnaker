@@ -43,14 +43,14 @@
       "description": "An example of a Spring based plugin that requires no extension points.",
       "provider": "https://github.com/claymccoy",
       "releases": [
-          {
-              "version": "1.2.1-SNAPSHOT",
-              "date": "2022-04-25T15:40:03.877367Z",
-              "requires": "orca>=0.0.0",
-              "sha512sum": "499656355463402c0f421084061609cbf7d146f3f4415deb81eee699b51922bcef87aaa5c755e10f61afd2b367cc4360b976978f23a466af1e9e58958e5c76ff",
-              "state": "",
-              "url": "https://github.com/ichi0915/TMP-Custom-Stage-Spinnaker/raw/my_branch/springExamplePlugin-v1.2.1-SNAPSHOT.zip"
-          }
+        {
+          "version": "v1.2.1-SNAPSHOT",
+          "date": "2022-05-09T18:23:23.703841Z",
+          "requires": "orca>=0.0.0",
+          "sha512sum": "8e415c818854122ee914647643d441ac58cedc32ed8fa584751fbd68b3078bab6ccecf3fa1820c04a4975b55df81000a9125286c8739bc173c0854e97c49b86f",
+          "state": "",
+          "url": "https://github.com/ichi0915/TMP-Custom-Stage-Spinnaker/raw/my_branch/springExamplePlugin-v1.2.1-SNAPSHOT.zip"
+        }
       ]
     }
 ]
