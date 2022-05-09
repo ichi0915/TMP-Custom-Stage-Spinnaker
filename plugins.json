@@ -45,9 +45,9 @@
       "releases": [
         {
           "version": "1.2.1-SNAPSHOT",
-          "date": "2022-05-09T18:23:23.703841Z",
+          "date": "2022-05-09T20:24:12.493529Z",
           "requires": "orca>=0.0.0",
-          "sha512sum": "8e415c818854122ee914647643d441ac58cedc32ed8fa584751fbd68b3078bab6ccecf3fa1820c04a4975b55df81000a9125286c8739bc173c0854e97c49b86f",
+          "sha512sum": "6e599852c0242af253f4f97e50c3ccf3f6b89cf7f4413c2bbfee3fb576d9be6dcba69a58aedf10a5c367db69b857ac0b6b68233497a63543d968b29d5288b5e8",
           "state": "",
           "url": "https://github.com/ichi0915/TMP-Custom-Stage-Spinnaker/raw/my_branch/springExamplePlugin-v1.2.1-SNAPSHOT.zip"
         }
