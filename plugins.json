@@ -5,36 +5,12 @@
       "provider": "https://armory.io",
       "releases": [
         {
-          "version": "0.0.3",
-          "date": "2022-04-28T15:58:52.617399Z",
-          "requires": "orca>=0.0.0",
-          "sha512sum": "57aadbf6ee63f89981be238083de0f90abeab3943cac96a4d7669b79a116f7df091fe0809da68db90403709210dd743b8aad4163c664b7e1a62e79b6ee13f26e",
+          "version": "0.2.0-snapshot.uncommitted.token.properties.2250d7f",
+          "date": "2022-05-10T14:43:26.111186Z",
+          "requires": "clouddriver>=0.0.0,front50>=0.0.0,orca>=0.0.0",
+          "sha512sum": "d9bfae744c76a0d699e3fd6d1be29ffac24855f515ffec9e9a1ec13b5ae9d7223352a722b1cb25f90f98e9e3991aca3407793f3c3b35f93f1ddd7b7827b20105",
           "state": "",
-          "url": "https://github.com/ichi0915/TMP-Custom-Stage-Spinnaker/raw/my_branch/iam-v0.0.3.zip"
-        },
-        {
-          "version": "0.0.4",
-          "date": "2022-04-28T20:11:08.720526Z",
-          "requires": "orca>=0.0.0",
-          "sha512sum": "6f589189e4b36d8a39b4e12ed3ff894c053a059ec422d9fc61ba48b917b92c8b2385460682dca965f496f083eea6427f4bf21ac14fbffaf38252854040503bf1",
-          "state": "",
-          "url": "https://github.com/ichi0915/TMP-Custom-Stage-Spinnaker/raw/my_branch/iam-v0.0.4.zip"
-        },
-        {
-          "version": "0.0.7",
-          "date": "2022-04-29T01:47:02.485218Z",
-          "requires": "orca>=0.0.0",
-          "sha512sum": "ca65a6c7473f925e761af8ab65d07ea1f9bf2f07f3604dceef5c2697ed98e4725255fcb48f8d15b1d7eac950912ea3ed9b18124be99c61c62cea32c0a209ba34",
-          "state": "",
-          "url": "https://github.com/ichi0915/TMP-Custom-Stage-Spinnaker/raw/my_branch/iam-v0.0.7.zip"
-        },
-        {
-          "version": "0.0.9",
-          "date": "2022-05-02T23:23:38.102479Z",
-          "requires": "orca>=0.0.0",
-          "sha512sum": "a207de0100f15e565e333aca18141a544a925c57cb3c33785731ddde0838a825f78c536f709681470a0ac2b20843129cfb7e9a72b40ee038a9c0bea0ba85af0c",
-          "state": "",
-          "url": "https://github.com/ichi0915/TMP-Custom-Stage-Spinnaker/raw/my_branch/iam-v0.0.9.zip"
+          "url": "https://github.com/ichi0915/TMP-Custom-Stage-Spinnaker/raw/my_branch/iam-0.2.0-snapshot.uncommitted.token.properties.2250d7f.zip"
         }
       ]
     },
