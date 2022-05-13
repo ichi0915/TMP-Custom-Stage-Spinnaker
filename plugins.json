@@ -28,5 +28,20 @@
           "url": "https://github.com/ichi0915/TMP-Custom-Stage-Spinnaker/raw/my_branch/springExamplePlugin-v1.2.1-SNAPSHOT.zip"
         }
       ]
+    },
+    {
+      "id": "Armory.RunMultiplePipelines",
+      "description": "This plugin adds a new custom stage to Spinnaker to trigger multiple child pipelines.",
+      "provider": "https://armory.io",
+      "releases": [
+          {
+              "version": "1.0.2",
+              "date": "2022-05-13T16:41:52.628609Z",
+              "requires": "orca>=0.0.0,deck>=0.0.0",
+              "sha512sum": "b803cce9c050ef0005c8d9e514dcd0c82db3f92397555352cc4aa56b5e61fdaebe70b00dc73e67ccb124313879a7a388d5343a1107df4334f3167fb17428f530",
+              "state": "",
+              "url": "https://github.com/ichi0915/TMP-Custom-Stage-Spinnaker/raw/my_branch/spinnaker-multiple-pipelines-1.0.2.zip"
+          }
+      ]
     }
 ]
