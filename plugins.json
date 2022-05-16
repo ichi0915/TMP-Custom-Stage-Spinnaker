@@ -10,7 +10,7 @@
           "requires": "clouddriver>=0.0.0,front50>=0.0.0,orca>=0.0.0",
           "sha512sum": "54e4c0b6c9230eb0cb445fb849f3956ea44655bf755eb193d389883fbc69aff39e533eab7a075a5e81557531a4edabb5fed0145db8a1f7fb7d6d6ec5991efcb0",
           "state": "",
-          "url": "https://github.com/ichi0915/TMP-Custom-Stage-Spinnaker/raw/my_branch/iam-0.2.0-snapshot.driver.generates.token.294bc20.zip"
+          "url": "https://github.com/ichi0915/TMP-Custom-Stage-Spinnaker/raw/my_branch/iam-0.2.0-snapshot.uncommitted.driver.generates.token.3672a36.zip"
         }
       ]
     },
