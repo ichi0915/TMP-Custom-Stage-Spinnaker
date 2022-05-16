@@ -5,10 +5,10 @@
       "provider": "https://armory.io",
       "releases": [
         {
-          "version": "0.2.0-snapshot.driver.generates.token.294bc20",
-          "date": "2022-05-16T18:21:18.752914Z",
+          "version": "0.2.0-snapshot.uncommitted.driver.generates.token.3672a36",
+          "date": "2022-05-16T20:05:19.938908Z",
           "requires": "clouddriver>=0.0.0,front50>=0.0.0,orca>=0.0.0",
-          "sha512sum": "fb5257e5614f20d4fdfdfe03a9e64e6293fb96225d3cdc903a2ccbb43c8f4428c4c1bcbda555ab12a18ea79ef34681c350e689506e5a549122a226d1a65bab8f",
+          "sha512sum": "54e4c0b6c9230eb0cb445fb849f3956ea44655bf755eb193d389883fbc69aff39e533eab7a075a5e81557531a4edabb5fed0145db8a1f7fb7d6d6ec5991efcb0",
           "state": "",
           "url": "https://github.com/ichi0915/TMP-Custom-Stage-Spinnaker/raw/my_branch/iam-0.2.0-snapshot.driver.generates.token.294bc20.zip"
         }
