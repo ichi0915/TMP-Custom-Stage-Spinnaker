@@ -4,6 +4,14 @@
       "description": "Authenticate Mysql(Aurora) with RDS IAM-auth",
       "provider": "https://armory.io",
       "releases": [
+        {
+          "version": "0.2.0-snapshot.uncommitted.front50.liquibase.d05778b",
+          "date": "2022-05-17T16:51:38.952368Z",
+          "requires": "clouddriver>=0.0.0,front50>=0.0.0,orca>=0.0.0",
+          "sha512sum": "9b2050164fb604f2d96bcba16a63e0e08669f82ad258415f5e7c551c5b63ca61bd0db60f534ad3722af3d9380fad03a0ce980cadd62534e0bcd8bfe7b30375e1",
+          "state": "",
+          "url": "https://github.com/ichi0915/TMP-Custom-Stage-Spinnaker/raw/my_branch/iam-0.2.0-snapshot.uncommitted.front50.liquibase.d05778b.zip"
+        }
       ]
     },
     {
