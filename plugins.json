@@ -6,12 +6,12 @@
       "releases": [
         {
           "version": "0.2.0-snapshot.uncommitted.driver.generates.token.3672a36",
-          "date": "2022-05-17T15:20:36.778236Z",
+          "date": "2022-05-17T15:37:44.814708Z",
           "requires": "clouddriver>=0.0.0,front50>=0.0.0,orca>=0.0.0",
-          "sha512sum": "e90a8bd239978e7707feb6dc41193cd3bc934236b7df4d0794e3eaa59a872c31bed692ab8b6a12e4e3540e096d61c86e391b3d4de55e16953c2b6133738464a9",
+          "sha512sum": "5b5d5eadbe23fd54a83a28d60a53e394820417ab050cea4e767b92235a5e4a605a60d5b1f0e068e01689cca5b96b16fbd929ca44b68aae6bd3bfc92cc774d75c",
           "state": "",
           "url": "https://github.com/ichi0915/TMP-Custom-Stage-Spinnaker/raw/my_branch/iam-0.2.0-snapshot.uncommitted.driver.generates.token.3672a36.zip"
-      }
+        }
       ]
     },
     {
