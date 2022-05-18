@@ -5,12 +5,12 @@
       "provider": "https://armory.io",
       "releases": [
         {
-          "version": "0.2.0-snapshot.uncommitted.front50.liquibase.c2582f3",
-          "date": "2022-05-18T17:07:51.296730Z",
+          "version": "0.2.0-snapshot.uncommitted.front50.liquibase.f9ad3fe",
+          "date": "2022-05-18T21:01:04.585679Z",
           "requires": "clouddriver>=0.0.0,front50>=0.0.0,orca>=0.0.0",
-          "sha512sum": "d070294b6c41d41c98dee346d2c4dc524f9f2e7b2269a4aa5224a7b310280324aeac86cff3a1f9a3ccd0b507d49b5609a5caa0928200d1c0917148c7f063798c",
+          "sha512sum": "df1ec044b6dd9ac18fdbdb9344c368563d6e09daa588475ef26de8ef32e67b6faa226d952cad2ef6037f5d2e1e2f27cff3e16bd4afe409c70c63e2cd3ae204e9",
           "state": "",
-          "url": "https://github.com/ichi0915/TMP-Custom-Stage-Spinnaker/raw/my_branch/iam-0.2.0-snapshot.uncommitted.front50.liquibase.c2582f3.zip"
+          "url": "https://github.com/ichi0915/TMP-Custom-Stage-Spinnaker/raw/my_branch/iam-0.2.0-snapshot.uncommitted.front50.liquibase.f9ad3fe.zip"
         }
       ]
     },
