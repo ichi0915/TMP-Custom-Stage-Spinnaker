@@ -34,14 +34,6 @@
       "description": "This plugin adds a new custom stage to Spinnaker to trigger multiple child pipelines.",
       "provider": "https://armory.io",
       "releases": [
-        {
-          "version": "0.5.5",
-          "date": "2022-08-25T02:00:34.758011Z",
-          "requires": "orca>=0.0.0,deck>=0.0.0",
-          "sha512sum": "864559ca7d35972846a3301f502180cdeed427a85304a37e3d04973c906326cf044101f5ecdec2418094e00ce3879a88ecf29ea05504dd45e6cf0a6112d29308",
-          "state": "",
-          "url": "https://github.com/ichi0915/TMP-Custom-Stage-Spinnaker/raw/my_branch/spinnaker-multiple-pipelines-0.5.5.zip"
-        }
       ]
     }
 ]
