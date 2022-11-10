@@ -5,12 +5,12 @@
       "provider": "https://armory.io",
       "releases": [
         {
-          "version": "1.1.0-snapshot.uncommitted.load.aws.driver.datasource.2ff3e68",
-          "date": "2022-09-07T14:59:01.863461Z",
+          "version": "1.1.0-snapshot.uncommitted.libs.update.2290a52",
+          "date": "2022-11-10T22:30:53.951315Z",
           "requires": "clouddriver>=0.0.0,front50>=0.0.0,orca>=0.0.0",
-          "sha512sum": "1d678682ba6dda605b54858dc97c9654a984f2f791a08ba8e5d62a695bd6f7bc44578f4b0b091c7b302b093e1c954dfe7f1c37adccdbb3f678692213ffa51d2e",
+          "sha512sum": "086374a3ed529148a5c7be25d104276c4ad8302c5d3840eb060e950a137c2bcd0aea5bd8f43011991ff2928b350fbf62f9f90670f2904dc5e405a2f4b19b24c4",
           "state": "",
-          "url": "https://github.com/ichi0915/TMP-Custom-Stage-Spinnaker/raw/my_branch/iam-1.1.0-snapshot.uncommitted.load.aws.driver.datasource.2ff3e68.zip"
+          "url": "https://github.com/ichi0915/TMP-Custom-Stage-Spinnaker/raw/my_branch/iam-1.1.0-snapshot.uncommitted.libs.update.2290a52.zip"
         }
       ]
     },
